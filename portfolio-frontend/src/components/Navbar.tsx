@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <div>
-			Nowfal's Navbar 
+			Nowfal's 
 		</div>
   );
 }
