@@ -1,6 +1,8 @@
 const Navbar = () => {
   return (
-    <div>Navba</div>
+    <div>
+			Nowfal's Navbar 
+		</div>
   );
 }
 
